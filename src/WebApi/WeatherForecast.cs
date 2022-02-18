@@ -1,4 +1,4 @@
-namespace ArionBank
+namespace WebApi
 {
     public class WeatherForecast
     {

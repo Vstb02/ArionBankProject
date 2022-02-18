@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ArionBank.Controllers
+namespace WebApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]
